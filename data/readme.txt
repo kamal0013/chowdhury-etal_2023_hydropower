@@ -1,0 +1,1 @@
+Download 'gcam_outputs' and 'other_data' from the Zenodo repository (link) and place them here in this folder.
