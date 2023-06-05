@@ -3,7 +3,8 @@
 data/gcam_outputs
 data/other_data
 
-*desktop.ini
+desktop.ini
+**/desktop.ini
 
 # sys files
 .DS_Store
