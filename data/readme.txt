@@ -1,1 +1,1 @@
-Download 'gcam_outputs' and 'other_data' from the Zenodo repository (link) and save them here in this folder.
+Download 'gcam_outputs' and 'other_data' from the Zenodo repository (https://doi.org/10.5281/zenodo.8008401) and save them here in this folder.
