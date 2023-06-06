@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/xyz.svg)](https://doi.org/xyz)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8008401.svg)](https://doi.org/10.5281/zenodo.8008401)
 
 # chowdhury-etal_2023_hydropower
 
@@ -22,11 +22,11 @@ DOI: Will be provided once available.
 
 
 ## Summary
-In this study, we investigate how rapid economic growth and transition to low-carbon energy may impact hydropower development, with potential countervailing effects of increasingly cost-competitive variable renewable energy (VRE). We explore the effects of these forces on hydropower expansion in the world's 20 most eco-sensitive river basins, that have significant untapped hydropower potential and ecological richness. Our investigation is based on the [Global Change Analysis Model (GCAM)](https://github.com/JGCRI/gcam-core), an integrated model of global energy-water-land dynamics. The Jupyter Notebooks provided in this repository, in combination with the GCAM outputs and other data provided in [this Zenodo repository] (link), can be used to conduct our key analysis, and reproduce the relevant results.
+In this study, we investigate how rapid economic growth and transition to low-carbon energy may impact hydropower development, with potential countervailing effects of increasingly cost-competitive variable renewable energy (VRE). We explore the effects of these forces on hydropower expansion in the world's 20 most eco-sensitive river basins, that have significant untapped hydropower potential and ecological richness. Our investigation is based on the [Global Change Analysis Model (GCAM)](https://github.com/JGCRI/gcam-core), an integrated model of global energy-water-land dynamics. The Jupyter Notebooks provided in this repository, in combination with the GCAM outputs and other data provided in [this Zenodo repository](https://doi.org/10.5281/zenodo.8008401), can be used to conduct our key analysis, and reproduce the relevant results.
 
 
 ## Data
-The following data, provided in [this Zenodo repository] (link), will be required to reproduce our results.
+The following data, provided in [this Zenodo repository](https://doi.org/10.5281/zenodo.8008401), will be required to reproduce our results.
 
 | Folder name |   Contents   |
 |-------------|-------------|
@@ -59,4 +59,4 @@ Our results can be reproduced in the following steps:
 
 - Run the Jupyter Notebooks to obtain the results as mentioned above.
 
-- In each Notebooks, use `save_outputs = 'yes'` to save the output plots in the `figures` folder.
+- In the Notebooks, use `save_outputs = 'yes'` to save the output plots in the `figures` folder.
