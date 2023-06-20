@@ -2,11 +2,11 @@
 
 # chowdhury-etal_2023_hydropower
 
-This repository contains Jupyter Notebooks and instructions to reproduce results of the following paper: 
+This repository contains Jupyter Notebooks and instructions to reproduce the results of the following paper: 
 
-**The Implications of Global Energy-Economic Change for Hydropower Expansion in Eco-sensitive River Basins**
+**Future Hydropower Expansion in Eco-Sensitive River Basins under Global Energy-Economic Change**
 
-AFM Kamal Chowdhury<sup>1\*</sup>, Thomas Wild<sup>2</sup>, Ying Zhang<sup>2</sup>, Matthew Binsted<sup>2</sup>, Gokul Iyer<sup>2</sup>, Sonny Kim<sup>2</sup>, and Jonathan Lamontagne<sup>3</sup>
+AFM Kamal Chowdhury<sup>1\*</sup>, Thomas Wild<sup>2</sup>, Ying Zhang<sup>2</sup>, Matthew Binsted<sup>2</sup>, Gokul Iyer<sup>2</sup>, Son H. Kim<sup>2</sup>, and Jonathan Lamontagne<sup>3</sup>
 
 
 <sup>1 </sup> Earth System Science Interdisciplinary Center, University of Maryland, College Park, MD 20740, United States
@@ -22,7 +22,7 @@ DOI: Will be provided once available.
 
 
 ## Summary
-In this study, we investigate how rapid economic growth and transition to low-carbon energy may impact hydropower development, with potential countervailing effects of increasingly cost-competitive variable renewable energy (VRE). We explore the effects of these forces on hydropower expansion in the world's 20 most eco-sensitive river basins, that have significant untapped hydropower potential and ecological richness. Our investigation is based on the [Global Change Analysis Model (GCAM)](https://github.com/JGCRI/gcam-core), an integrated model of global energy-water-land dynamics. The Jupyter Notebooks provided in this repository, in combination with the GCAM outputs and other data provided in [this Zenodo repository](https://doi.org/10.5281/zenodo.8008401), can be used to conduct our key analysis, and reproduce the relevant results.
+In this study, we investigate how rapid economic growth and transition to low-carbon energy may impact hydropower development, with potential countervailing effects of increasingly cost-competitive variable renewable energy (VRE). We explore the effects of these forces on hydropower expansion in the world's 20 most eco-sensitive river basins, that have substantial untapped hydropower potential and ecological richness. Our investigation is based on the [Global Change Analysis Model (GCAM)](https://github.com/JGCRI/gcam-core), an integrated model of global energy-water-economy dynamics. The Jupyter Notebooks provided in this repository, in combination with the GCAM outputs and other data provided in [this Zenodo repository](https://doi.org/10.5281/zenodo.8008401), can be used to conduct our key analysis, and reproduce the relevant results.
 
 
 ## Data
