@@ -4,7 +4,7 @@
 
 This repository contains Jupyter Notebooks and instructions to reproduce the results of the following paper: 
 
-**Future Hydropower Expansion in Eco-Sensitive River Basins under Global Energy-Economic Change**
+**Hydropower Expansion in Eco-Sensitive River Basins under Global Energy-Economic Change**
 
 AFM Kamal Chowdhury<sup>1\*</sup>, Thomas Wild<sup>2</sup>, Ying Zhang<sup>2</sup>, Matthew Binsted<sup>2</sup>, Gokul Iyer<sup>2</sup>, Son H. Kim<sup>2</sup>, and Jonathan Lamontagne<sup>3</sup>
 
@@ -18,7 +18,7 @@ AFM Kamal Chowdhury<sup>1\*</sup>, Thomas Wild<sup>2</sup>, Ying Zhang<sup>2</su
 
 \* corresponding author: kchy@umd.edu
 
-DOI (pre-print): https://doi.org/10.21203/rs.3.rs-3089500/v1
+Citation: Chowdhury, A.F.M.K., Wild, T., Zhang, Y. et al. Hydropower expansion in eco-sensitive river basins under global energy-economic change. Nat Sustain 7, 213–222 (2024). https://doi.org/10.1038/s41893-023-01260-z
 
 
 ## Summary
